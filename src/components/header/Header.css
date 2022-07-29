@@ -1,0 +1,11 @@
+.headingLink {
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+}
+.headerDarkMode {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
